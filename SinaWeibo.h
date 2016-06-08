@@ -6,6 +6,7 @@
 //  Copyright (c) 2012 SINA. All rights reserved.
 //
 
+
 #import <Foundation/Foundation.h>
 #import "SinaWeiboAuthorizeView.h"
 #import "SinaWeiboRequest.h"
